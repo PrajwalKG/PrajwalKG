@@ -22,11 +22,11 @@ Description
 
 3)Achieved an accuracy of 0.82 and F1 score of 0.83 using Random Forest.
 
-## Project 3 - Scraping Mobile Phones Details from Filpkart Website in India - Link - https://jovian.com/prajwalkarmarkar/scraping-filpkart-details-of-mobile-phones-in-india-ff72b
+## Project 3 - Scraping Mobile Phones Details from Flipkart Website in India - Link - https://jovian.com/prajwalkarmarkar/scraping-filpkart-details-of-mobile-phones-in-india-ff72b
 
 Description
 
-1)Scraped Mobile Phone Details from Filpkart Website Using Requests and Beautiful Soup.
+1)Scraped Mobile Phone Details from Flipkart Website Using Requests and Beautiful Soup.
 
 2)Built the function general_list () to scrape Name of The Product, Rating of The Product, Price of The Product, Image of The Product, Description of The Product etc
 
