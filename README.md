@@ -22,8 +22,7 @@ Description
 
 3)Achieved an accuracy of 0.82 and F1 score of 0.83 using Random Forest.
 
-## Project 3 - Scraping Mobile Phones Details from Flipkart Website in India - Link - https://jovian.com/prajwalkarmarkar/scraping-filpkart-details-of-mobile-phones-in-india-ff72b
-
+## Project 3 - Scraping Mobile Phones Details from Flipkart Website in India - Link - https://jovian.com/prajwalkarmarkar/scraping-flipkart-details-of-mobile-phones-in-india-ff72b
 Description
 
 1)Scraped Mobile Phone Details from Flipkart Website Using Requests and Beautiful Soup.
