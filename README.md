@@ -1,3 +1,16 @@
+## About
+
+- Currently I am pursuing Data Science and Machine Learning Bootcamp from Jovian.
+- Practicing Data Science and Machine Learning for over 8 months, Completed 600+ hours of coursework, 
+ 12 coding assignments, and 3 projects (Web scraping, Exploratory data analysis) which include EDA, ML, 
+ SQL, and Tableau Dashboard.
+- Currently, I am open to opportunities for Data Analyst, Business Analyst, Product analyst and Data 
+ Scientist Roles
+ 
+## Skills
+
+SQL, Presentation, NumPy, Pandas, Python, Excel, Tableau, Data Analysis, Data Visualization, Data Science, Statistics, Statistical Data Analysis, Machine Learning, Scikit-Learn
+
 ## [Resume Link](https://docs.google.com/document/d/1TMl5datitIlwpgB8ZeFtK1wL9fNAyS7v/edit?usp=sharing&ouid=116233464878335893022&rtpof=true&sd=true)
 
 ## [Project Links](https://prajwalkarmarkarg.medium.com/)
