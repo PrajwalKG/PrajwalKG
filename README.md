@@ -1,8 +1,8 @@
-## Resume Link - https://docs.google.com/document/d/1TMl5datitIlwpgB8ZeFtK1wL9fNAyS7v/edit?usp=sharing&ouid=116233464878335893022&rtpof=true&sd=true
+## [Resume Link](https://docs.google.com/document/d/1TMl5datitIlwpgB8ZeFtK1wL9fNAyS7v/edit?usp=sharing&ouid=116233464878335893022&rtpof=true&sd=true)
 
-## Project Links - https://prajwalkarmarkarg.medium.com/
+## [Project Links](https://prajwalkarmarkarg.medium.com/)
 
-## Project 1 - Exploratory Data Analysis and Visualization of Indian Premier League (IPL) Data - Link - https://jovian.com/prajwalkarmarkar/ipl-detail-data-analysis
+## [Project 1 - Exploratory Data Analysis and Visualization of Indian Premier League (IPL) Data](https://jovian.com/prajwalkarmarkar/ipl-detail-data-analysis)
 
 Description
 
@@ -12,7 +12,7 @@ Description
 
 3)Discovered insights like "most successful team", "top cities that highest matches have been played" etc.
 
-## Project 2 - Machine Learning for Indian Premier League (IPL) Dataset to Predict Winner - Link - https://jovian.com/prajwalkarmarkar/ipl-detail-data-analysis-and-machine-learning
+## [Project 2 - Machine Learning for Indian Premier League (IPL) Dataset to Predict Winner](https://jovian.com/prajwalkarmarkar/ipl-detail-data-analysis-and-machine-learning)
 
 Description
 
@@ -22,7 +22,7 @@ Description
 
 3)Achieved an accuracy of 0.82 and F1 score of 0.83 using Random Forest.
 
-## Project 3 - Scraping Mobile Phones Details from Flipkart Website in India - Link - https://jovian.com/prajwalkarmarkar/scraping-flipkart-details-of-mobile-phones-in-india-ff72b
+## [Project 3 - Scraping Mobile Phones Details from Flipkart Website in India](https://jovian.com/prajwalkarmarkar/scraping-flipkart-details-of-mobile-phones-in-india-ff72b)
 Description
 
 1)Scraped Mobile Phone Details from Flipkart Website Using Requests and Beautiful Soup.
@@ -31,7 +31,7 @@ Description
 
 3)Stored data consisting of 1561 rows x 4 columns and into Mobile_Phone_details.csv using Pandas.
 
-## Project 4 - Bookshop Analysis Using Excel and Tableau - Link - https://public.tableau.com/app/profile/prajwal.karmarkar.g./viz/PrajwalKarmarkarGTablueauAssignment/BookShopDataAnalysisByPrajwalPage-1
+## [Project 4 - Bookshop Analysis Using Excel and Tableau](https://public.tableau.com/app/profile/prajwal.karmarkar.g./viz/PrajwalKarmarkarGTablueauAssignment/BookShopDataAnalysisByPrajwalPage-1)
 
 Description
 
@@ -41,7 +41,7 @@ Description
 
 3)Published the created dashboard with multiple sheets to tableau public online
 
-## Project 5 - SQL Mini Project - Link - https://jovian.com/prajwalkarmarkar/sql
+## [Project 5 - SQL Mini Project](https://jovian.com/prajwalkarmarkar/sql)
 
 Description
 
