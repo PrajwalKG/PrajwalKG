@@ -23,7 +23,7 @@ Description
 
 2)Created visualizations (Scatter plots, Bar Chart, Pie Chart, Line Chart, etc.) using Seaborn, Plotly & Matplotlib.
 
-3)Discovered insights like "most successful team", "top cities that highest matches have been played" etc.
+3)Discovered that Mumbai Indians have won the highest number of matches.
 
 ## [Project 2 - Machine Learning for Indian Premier League (IPL) Dataset to Predict Winner](https://jovian.com/prajwalkarmarkar/ipl-detail-data-analysis-and-machine-learning)
 
