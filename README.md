@@ -19,9 +19,9 @@ SQL, Presentation, NumPy, Pandas, Python, Excel, Tableau, Data Analysis, Data Vi
 
 Description
 
-1)Analyzed data for 1.3 million+ loans containing 193468 rows and 18 columns by merging datasets using Pandas.
+1)Analyzed Data for Indian Premier League (IPL) with 193468 rows and 18 columns by merging datasets using Pandas.
 
-2)Created visualizations (Scatter plots, Bar Chart, Pie Chart, Line Chart, etc.) using Seaborn, Plotly & Matplotlib.
+2)Created Visualizations (Scatter Plots, Bar Chart, Pie Chart & Line Chart, etc.) using Seaborn, Plotly & Matplotlib.
 
 3)Discovered that Mumbai Indians have won the highest number of matches.
 
@@ -29,7 +29,7 @@ Description
 
 Description
 
-1)Cleaned & analyzed Indian Premier League (IPL) Dataset with 190000+ rows & 18 columns to predict Winner.
+1)Cleaned & Analyzed Indian Premier League (IPL) Dataset with 190000+ rows & 18 columns to predict Winner.
 
 2)Trained Logistic Regressor, Random Forest Classifier using Scikit-learn.
 
@@ -42,7 +42,7 @@ Description
 
 2)Built the function general_list () to scrape Name of The Product, Rating of The Product, Price of The Product, Image of The Product, Description of The Product etc
 
-3)Stored data consisting of 1561 rows x 4 columns and into Mobile_Phone_details.csv using Pandas.
+3)Stored Data consisting of 1561 rows x 4 columns and into Mobile_Phone_details.csv using Pandas.
 
 ## [Project 4 - Bookshop Analysis Using Excel and Tableau](https://public.tableau.com/app/profile/prajwal.karmarkar.g./viz/PrajwalKarmarkarGTablueauAssignment/BookShopDataAnalysisByPrajwalPage-1)
 
