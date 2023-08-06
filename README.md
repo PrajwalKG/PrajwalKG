@@ -13,11 +13,11 @@ SQL, Presentation, NumPy, Pandas, Seaborn, Matplotlib, Plotly, Python, MS office
 
 #### Certificates
 
-1) [Data Science and Machine Learning Bootcamp by Jovian] (https://jovian.com/certificate/MFQTQNZUGE)
+1) [Data Science and Machine Learning Bootcamp by Jovian](https://jovian.com/certificate/MFQTQNZUGE)
 
-2) [Data Analysis with Python: Zero to Pandas by Jovian] (https://jovian.com/certificate/MFQTQMZVHA)
+2) [Data Analysis with Python: Zero to Pandas by Jovian](https://jovian.com/certificate/MFQTQMZVHA)
 
-3) [Machine Learning with Python: Zero to GBMs by Jovian] (https://jovian.com/certificate/MFQTQMZZGI)
+3) [Machine Learning with Python: Zero to GBMs by Jovian](https://jovian.com/certificate/MFQTQMZZGI)
 
 4) [Data Science and Machine Learning Workshop by Coding Ninjas]
 
