@@ -11,7 +11,7 @@ SQL, Presentation, NumPy, Pandas, Python, Excel, Tableau, Data Analysis, Data Vi
 
 ## [Resume Link](https://docs.google.com/document/d/1TMl5datitIlwpgB8ZeFtK1wL9fNAyS7v/edit?usp=sharing&ouid=116233464878335893022&rtpof=true&sd=true)
 
-## [Project Links](https://prajwalkarmarkarg.medium.com/)
+## [Project Links](https://jovian.com/prajwalkarmarkar)
 
 ## [Project 1 - Exploratory Data Analysis and Visualization of Indian Premier League (IPL) Data](https://jovian.com/prajwalkarmarkar/ipl-detail-data-analysis)
 
