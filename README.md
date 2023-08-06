@@ -1,11 +1,9 @@
 ## About
 
-- Currently I am pursuing Data Science and Machine Learning Bootcamp from Jovian.
-- Practicing Data Science and Machine Learning for over 8 months, Completed 600+ hours of coursework, 
- 12 coding assignments, and 3 projects (Web scraping, Exploratory data analysis) which include EDA, ML, 
- SQL, and Tableau Dashboard.
-- Currently, I am open to opportunities for Data Analyst, Business Analyst, Product analyst and Data 
- Scientist Roles
+- I hold a Bachelor's Of Engineering (B.E) Degree from Sahyadri College Of Engineering and Management, Adyar, Mangalore, Karnataka.
+- I have completed Data Science and Machine Learning Bootcamp from Jovian.
+- Practicing Data Science and Machine Learning for over 8 months, Completed 600+ hours of coursework, 12 coding assignments, and 3 projects (Exploratory Data Analysis, Machine Learning, Web Scraping, SQL Mini Project, Tableau Dashboard).
+- Currently, I am open to opportunities for Data Analyst, Business Analyst, Product analyst and Data Scientist Roles
  
 ## Skills
 
