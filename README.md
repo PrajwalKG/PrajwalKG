@@ -19,7 +19,7 @@ SQL, Presentation, NumPy, Pandas, Seaborn, Matplotlib, Plotly, Python, MS office
 
 3) [Machine Learning with Python: Zero to GBMs by Jovian] (https://jovian.com/certificate/MFQTQMZZGI)
 
-4) Data Science and Machine Learning Workshop by Coding Ninjas
+4) [Data Science and Machine Learning Workshop by Coding Ninjas]
 
 
 ## [Resume Link](https://docs.google.com/document/d/1TMl5datitIlwpgB8ZeFtK1wL9fNAyS7v/edit?usp=sharing&ouid=116233464878335893022&rtpof=true&sd=true)
