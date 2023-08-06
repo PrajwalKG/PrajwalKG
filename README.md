@@ -5,9 +5,22 @@
 - Practicing Data Science and Machine Learning for over 8 months, Completed 600+ hours of coursework, 12 coding assignments, and 3 projects (Exploratory Data Analysis, Machine Learning, Web Scraping, SQL Mini Project, Tableau Dashboard).
 - Currently, I am open to opportunities for Data Analyst, Business Analyst, Product analyst and Data Scientist Roles
  
-## Skills
+## Skills and Certificates
 
-SQL, Presentation, NumPy, Pandas, Python, Excel, Tableau, Data Analysis, Data Visualization, Data Science, Statistics, Statistical Data Analysis, Machine Learning, Scikit-Learn
+#### Skills
+
+SQL, Presentation, NumPy, Pandas, Seaborn, Matplotlib, Plotly, Python, MS office (Excel, PowerPoint, Word), Tableau, Data Analysis, Data Visualization, Data Science, Statistics, Statistical Data Analysis, Machine Learning, Scikit-Learn, Logistic Regression, Linear Regression, Random Forest Classifier, Decision Tree, Problem Solving Skills, Business Analysis, Decision-making, Communication Skills, Time Management, Analytical Skills, Problem Solving.
+
+#### Certificates
+
+1) [Data Science and Machine Learning Bootcamp by Jovian] (https://jovian.com/certificate/MFQTQNZUGE)
+
+2) [Data Analysis with Python: Zero to Pandas by Jovian] (https://jovian.com/certificate/MFQTQMZVHA)
+
+3) [Machine Learning with Python: Zero to GBMs by Jovian] (https://jovian.com/certificate/MFQTQMZZGI)
+
+4) Data Science and Machine Learning Workshop by Coding Ninjas
+
 
 ## [Resume Link](https://docs.google.com/document/d/1TMl5datitIlwpgB8ZeFtK1wL9fNAyS7v/edit?usp=sharing&ouid=116233464878335893022&rtpof=true&sd=true)
 
